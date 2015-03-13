@@ -1,5 +1,5 @@
 <?php 
-
+//é meu!
 //Verifica se um argumento foi usado 
 if (isset($argv[1])) {
 	echo $argv[1];
